@@ -1,0 +1,56 @@
+*   [33mcommit 9b99fd4069abf2378e5f0d2bbe1d10ae022a52ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 2219f23 26f4296
+[31m|[m [32m|[m Author: RAMEES <rameessha372@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 12 16:47:55 2020 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'feature'
+[31m|[m [32m|[m     branches merged
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 26f42965b041b1da4fa52e6b1830b977c409baad[m[33m ([m[1;32mfeature[m[33m)[m
+[31m|[m [32m|[m Author: RAMEES <rameessha372@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 12 16:36:03 2020 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     index add text
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 2219f231d061f6d6384ce3dc15102be65718415a[m
+[32m|[m[32m/[m  Author: RAMEES <rameessha372@gmail.com>
+[32m|[m   Date:   Wed Aug 12 16:31:53 2020 +0530
+[32m|[m   
+[32m|[m       edit hey file name
+[32m|[m   
+[32m|[m * [33mcommit fecf836d33bc8433625b792d6a980d8fcd0cb614[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[32m|[m[32m/[m[34m|[m Merge: c54cdbf 24a9aa0
+[32m|[m [34m|[m Author: RAMEES <rameessha372@gmail.com>
+[32m|[m [34m|[m Date:   Wed Aug 12 16:25:07 2020 +0530
+[32m|[m [34m|[m 
+[32m|[m [34m|[m     WIP on feature: c54cdbf hey file edited
+[32m|[m [34m|[m 
+[32m|[m * [33mcommit 24a9aa095fb50ce9db718ea39dd4ce983069340a[m
+[32m|[m[32m/[m  Author: RAMEES <rameessha372@gmail.com>
+[32m|[m   Date:   Wed Aug 12 16:25:07 2020 +0530
+[32m|[m   
+[32m|[m       index on feature: c54cdbf hey file edited
+[32m|[m 
+* [33mcommit c54cdbfaf34efa058532f0ec997831d245884eb1[m
+[34m|[m Author: RAMEES <rameessha372@gmail.com>
+[34m|[m Date:   Wed Aug 12 15:58:57 2020 +0530
+[34m|[m 
+[34m|[m     hey file edited
+[34m|[m 
+* [33mcommit 9650cc3336b542984e67c08b418d8996ea9736a2[m
+[34m|[m Author: RAMEES <rameessha372@gmail.com>
+[34m|[m Date:   Wed Aug 12 15:39:13 2020 +0530
+[34m|[m 
+[34m|[m     second file added
+[34m|[m 
+* [33mcommit 24dd557aabd9cb470a69767fb8b2a8aa1190c962[m
+[34m|[m Author: RAMEES <rameessha372@gmail.com>
+[34m|[m Date:   Wed Aug 12 13:39:33 2020 +0530
+[34m|[m 
+[34m|[m     added some message
+[34m|[m 
+* [33mcommit 5d5c6d83cce18acf529b1675f5822f1a873b0614[m
+  Author: RAMEES <rameessha372@gmail.com>
+  Date:   Wed Aug 12 13:28:50 2020 +0530
+  
+      initial commit
